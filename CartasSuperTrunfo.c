@@ -60,7 +60,7 @@ int main() {
   printf("A area da cidade é de: %f \n", area2);
   printf("O PIB é de: %f \n", PIB2);
   printf("Existem %d pontos turisticos! \n", turismo2);
-  printf("A densidade da cidade é de: %2.f \n", densidade2);
-  printf("O PIB per capita é de : %f \n", percapita2);
+  printf("A densidade da cidade é de: %3.f \n", densidade2);
+  printf("O PIB per capita é de : %3.f \n", percapita2);
 return 0;
 } 
